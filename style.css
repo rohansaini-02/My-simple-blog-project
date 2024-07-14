@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+.top{
+    background-color: rgb(122, 75, 166);
+    text-align: center;
+    height: 110px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.textcolor{
+    color:white;
+    background-color: rgb(122, 75, 166);
+    margin: center 200px;
+    text-align: center;
+    height: 20%;
+
+}
+
+ul li{
+    display: inline;
+     margin-right: 20px;
+    color :white;
+    text-align: right;
+    
+}
+
+li{
+    font-size: 20px;
+}
+.container{
+    color: black;
+    height: 25%;
+    
+}
+.one{
+    background-color: sky rgb(71, 71, 105);
+    border-radius: 25px;
+    width: 100%;
+    height: 900%;  
+    
+     
+}
+.two{
+    background-color:white;
+    height: 20%;
+}
+.three{
+    background-color: white;
+}
+
+body{
+    border: 4px solid rgb(180, 2, 171);
+}
